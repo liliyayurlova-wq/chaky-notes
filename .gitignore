@@ -1,0 +1,10 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace
+
+# Temporary files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
